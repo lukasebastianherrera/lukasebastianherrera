@@ -1,4 +1,4 @@
-## ![](https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif) Bienvenido a ver codigo criminal ![](https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif)
+## ![](https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif) ) Bienvenido a código dudoso ![](https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif)
 <div>
 
 <img align="right" width="400" alt="bocchi-no-sleep" src="https://i.imgur.com/FFCivHa.jpeg"/>
