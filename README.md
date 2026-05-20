@@ -1,7 +1,7 @@
 ## ![](https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif) Bienvenido a ver codigo criminal ![](https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif)
 <div>
 
-<img align="right" width="400" alt="bocchi-no-sleep" src="https://i.imgur.com/aNBi8Jf.png](https://i.pximg.net/img-master/img/2026/02/21/07/41/40/141431529_p0_master1200.jpg"/>
+<img align="right" width="400" alt="bocchi-no-sleep" src="https://i.pximg.net/img-master/img/2026/02/21/07/41/40/141431529_p0_master1200.jpg"/>
 
 <h2> / about me /</h2>
   
