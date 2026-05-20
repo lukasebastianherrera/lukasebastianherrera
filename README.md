@@ -1,12 +1,16 @@
-## ![](https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif)  Bienvenido a código dudoso ![](https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif)
+<p align="center">
+  <img src="https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif" height="24">
+  <b><code>Welcome to questionable code</code></b>
+  <img src="https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif" height="24">
+</p>
 <div>
 
 <img align="right" width="400" alt="bocchi-no-sleep" src="https://i.imgur.com/FFCivHa.jpeg"/>
 
 ### / about me /
 
-- 🧑‍💻 Backend .NET developer in progress
-- 🎓 Programming student focused on C# and ASP.NET Core
+- 🧑‍💻 Backend .NET developer
+- 🎓 Focused on C# and ASP.NET Core
 - 🐾 Building projects like **Animal Rescue**
 - 🎯 Looking for my first opportunity as a .NET trainee/junior developer
 
@@ -33,8 +37,6 @@
 ### / currently learning /
 
 - Entity Framework Core
-- REST APIs
-- Layered architecture
 - Authentication & authorization
 - Clean backend practices
 <div align="right">
