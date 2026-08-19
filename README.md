@@ -12,7 +12,7 @@
 - 🧑‍💻 Backend .NET developer
 - 🎓 Focused on C# and ASP.NET Core
 - 🐾 Building projects like **Animal Rescue**
-- 🎯 Looking for my first opportunity as a .NET trainee/junior developer
+- 🎯 Open to Backend .NET opportunities
 
 ### / tech stack /
 
